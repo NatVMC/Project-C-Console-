@@ -1,0 +1,35 @@
+/Users/natachacampos/Desktop/Projet/Project 1/bin/Debug/net7.0/Project 1
+/Users/natachacampos/Desktop/Projet/Project 1/bin/Debug/net7.0/Project 1.deps.json
+/Users/natachacampos/Desktop/Projet/Project 1/bin/Debug/net7.0/Project 1.runtimeconfig.json
+/Users/natachacampos/Desktop/Projet/Project 1/bin/Debug/net7.0/Project 1.dll
+/Users/natachacampos/Desktop/Projet/Project 1/bin/Debug/net7.0/Project 1.pdb
+/Users/natachacampos/Desktop/Projet/Project 1/obj/Debug/net7.0/Project 1.csproj.AssemblyReference.cache
+/Users/natachacampos/Desktop/Projet/Project 1/obj/Debug/net7.0/Project 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natachacampos/Desktop/Projet/Project 1/obj/Debug/net7.0/Project 1.AssemblyInfoInputs.cache
+/Users/natachacampos/Desktop/Projet/Project 1/obj/Debug/net7.0/Project 1.AssemblyInfo.cs
+/Users/natachacampos/Desktop/Projet/Project 1/obj/Debug/net7.0/Project 1.csproj.CoreCompileInputs.cache
+/Users/natachacampos/Desktop/Projet/Project 1/obj/Debug/net7.0/Project 1.dll
+/Users/natachacampos/Desktop/Projet/Project 1/obj/Debug/net7.0/refint/Project 1.dll
+/Users/natachacampos/Desktop/Projet/Project 1/obj/Debug/net7.0/Project 1.pdb
+/Users/natachacampos/Desktop/Projet/Project 1/obj/Debug/net7.0/Project 1.genruntimeconfig.cache
+/Users/natachacampos/Desktop/Projet/Project 1/obj/Debug/net7.0/ref/Project 1.dll
+/Users/natachacampos/Desktop/Projet/Project_1/obj/Debug/net7.0/Project 1.csproj.AssemblyReference.cache
+/Users/natachacampos/Desktop/Projet/Project_1/obj/Debug/net7.0/Project 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natachacampos/Desktop/Projet/Project_1/obj/Debug/net7.0/Project 1.AssemblyInfoInputs.cache
+/Users/natachacampos/Desktop/Projet/Project_1/obj/Debug/net7.0/Project 1.AssemblyInfo.cs
+/Users/natachacampos/Desktop/Projet/Project_1/obj/Debug/net7.0/Project 1.csproj.CoreCompileInputs.cache
+/Users/natachacampos/Desktop/Projet/Project_1/obj/Debug/net7.0/Project 1.dll
+/Users/natachacampos/Desktop/Projet/Project_1/obj/Debug/net7.0/refint/Project 1.dll
+/Users/natachacampos/Desktop/Projet/Project_1/obj/Debug/net7.0/Project 1.pdb
+/Users/natachacampos/Desktop/Projet/Project_1/bin/Debug/net7.0/Project 1
+/Users/natachacampos/Desktop/Projet/Project_1/bin/Debug/net7.0/Project 1.deps.json
+/Users/natachacampos/Desktop/Projet/Project_1/bin/Debug/net7.0/Project 1.runtimeconfig.json
+/Users/natachacampos/Desktop/Projet/Project_1/bin/Debug/net7.0/Project 1.dll
+/Users/natachacampos/Desktop/Projet/Project_1/bin/Debug/net7.0/Project 1.pdb
+/Users/natachacampos/Desktop/Projet/Project_1/bin/Debug/net7.0/System.Text.Encodings.Web.dll
+/Users/natachacampos/Desktop/Projet/Project_1/bin/Debug/net7.0/System.Text.Json.dll
+/Users/natachacampos/Desktop/Projet/Project_1/bin/Debug/net7.0/runtimes/browser/lib/net7.0/System.Text.Encodings.Web.dll
+/Users/natachacampos/Desktop/Projet/Project_1/obj/Debug/net7.0/Project 1.csproj.CopyComplete
+/Users/natachacampos/Desktop/Projet/Project_1/obj/Debug/net7.0/Project 1.genruntimeconfig.cache
+/Users/natachacampos/Desktop/Projet/Project_1/obj/Debug/net7.0/ref/Project 1.dll
+/Users/natachacampos/Desktop/Projet/Project_1/bin/Debug/net7.0/Newtonsoft.Json.dll

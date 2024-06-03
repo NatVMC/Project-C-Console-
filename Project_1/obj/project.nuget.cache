@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pdp3OnNORcIQzRKDk+kKCwl36RYD0B9cdSe/3d0lzvnnZ9ioG26c74bDnAJOtE4NtsUhiqdmdlL8j9wJbKXUmA==",
+  "success": true,
+  "projectFilePath": "/Users/natachacampos/Desktop/Projet/Project_1/Project 1.csproj",
+  "expectedPackageFiles": [
+    "/Users/natachacampos/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/natachacampos/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/natachacampos/.nuget/packages/system.text.json/8.0.3/system.text.json.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
